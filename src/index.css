@@ -1,0 +1,19 @@
+:root {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: 1.5;
+  font-weight: 350;
+  color-scheme: light dark;
+  --secondary-color: #242424;
+  --primary-color: #e0e0e0;
+  --accent-color: #0c001f8f;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
